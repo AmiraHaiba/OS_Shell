@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1507222775 source:/home/amira/Desktop/Shell/file_processing.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507270138 source:/home/amira/Desktop/Shell/Parser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<wait.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdio.h>
+	<signal.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
+1507274303 source:/home/amira/Desktop/Shell/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1507270378 source:/home/amira/Desktop/Shell/variables.c
+
+1507270102 source:/home/amira/Desktop/Shell/commands.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
