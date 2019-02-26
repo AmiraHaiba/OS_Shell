@@ -24,6 +24,13 @@ FILE* file = open_log_file();
   //printf("Pid exited.\n");
 }
 
+
+
+
+
+
+
+
 void parse_command( const char* command )
 {  siginfo_t childstat;
    char *tmpCommand = strdup(command);
